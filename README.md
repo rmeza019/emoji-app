@@ -1,6 +1,7 @@
 # Emoji App
 
-Small JS app madre from Scrimba's front end path to play with arrays and DOM manipulation.
+Small JS app made with Scrimba's front end path to play with arrays and DOM manipulation.
+
 ![project screenshot](/img/emoji-app-preview.png?raw=true "Preview")
 
 Quick start:
